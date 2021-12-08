@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center; 
+    background-color: black; 
+    color: bisque;
+}
+h2{
+    background-color: lightcoral;
+    font-size: x-large;
+}
+.siz {
+    height: auto;
+    width: 50%;
+}
